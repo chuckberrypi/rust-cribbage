@@ -7,3 +7,6 @@ edition = "2018"
 
 [dependencies]
 enum-iterator = { version = "0.7.0"}
+rand = "0.8.4"
+crossbeam = "0.8.1"
+itertools = "0.10.1"
